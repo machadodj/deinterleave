@@ -5,7 +5,7 @@ This is the README file for deinterleave.
 Split a fastq file into pair1, pair 2 and single end reads.
 
 # Usage
-python3 deinterleave.py -i <fastq> -o <prefix>
+python3 deinterleave.py -i FILENAME -o PREFIX
 
 # Dependencies
 Python version 3.+ with Biopython.
